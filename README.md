@@ -1,5 +1,9 @@
 # TP MEHARI – Analyse des risques SSI pour Alsace Formation Numérique (AFN)
 
+[![Formation](https://img.shields.io/badge/Formation-BUT_3_Cybersécurité-blue.svg)](#)
+[![Année](https://img.shields.io/badge/Année_Universitaire-2026--2027-orange.svg)](#)
+[![Méthode](https://img.shields.io/badge/Méthode-MEHARI-red.svg)](#)
+
 ## 📋 Description
 
 Ce dépôt contient l’ensemble des livrables réalisés dans le cadre d'une analyse basé sur la méthode **MEHARI**.
